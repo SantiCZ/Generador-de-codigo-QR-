@@ -22,7 +22,4 @@ Este proyecto genera un codigo QR a partir de cualquier enlace web utilizando la
 Instala las dependencias necesarias con:
 
 pip install qrcode[pil]
-##⚙️ Uso
-Ejecutá el script:"python qr_generador.py"
-##📄 Licencia
-Este proyecto esta bajo licencia MIT. Usalo, modificalo y compartilo libremente.
+
